@@ -1,0 +1,85 @@
+#cadre1 {
+  height: 65vh;
+  border: 2px solid black;
+  margin-top: 37px;
+  margin-left: 12px;
+}
+.pad {
+  padding: 8px;
+}
+.colrow1 {
+  height : 25vh;
+}
+.row1col1 {
+  box-sizing: border-box;
+  background-color: red;
+  border-right: 8px solid black;
+  border-bottom: 8px solid black;
+}
+.row1col2 {
+  border-right: 5px solid black;
+  border-bottom: 8px solid black;
+}
+.row1col3 {
+  border-bottom: 8px solid black;
+}
+.colrow2 {
+  height: 8vh;
+}
+.row2col1 {
+  border-right: 8px solid black;
+  border-bottom: 8px solid black;
+}
+.row2col2 {
+  border-right: 5px solid black;
+  border-bottom: 8px solid black;
+}
+.row2col3 {
+  border-bottom: 8px solid black;
+}
+.colrow3 {
+  height : 14vh;
+}
+.row3col1 {
+  border-right: 8px solid black;
+  border-bottom: 8px solid black;
+}
+.row3col2 {
+  border-right: 5px solid black;
+  border-bottom: 8px solid black;
+  background-color: yellow;
+}
+.row3col3 {
+  border-right: 8px solid black;
+  border-bottom: 8px solid black;
+}
+.row3col4 {
+  border-bottom: 8px solid black;
+  background-color: blue;
+}
+.colrow4 {
+  height: 15vh;
+}
+.row4col1 {
+  border-right: 8px solid black;
+}
+.row4col2 {
+  border-right: 8px solid black;
+}
+
+.rowxcol1 {
+border-bottom: 8px solid black;
+border-right: 5px solid black;
+height: 10vh;
+}
+.rowxcol2 {
+  border-bottom: 8px solid black;
+  height: 10vh;
+}
+.rowycol1 {
+  border-right: 5px solid black;
+  height: 5vh;
+}
+.rowycol2 {
+  height: 5vh;
+}
